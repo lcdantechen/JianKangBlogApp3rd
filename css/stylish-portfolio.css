@@ -99,14 +99,14 @@ a {
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-    color: #2DA6FF;
+    color: #2F4472;
 }
 .navbar-default .navbar-nav>li>a:active {
-    color: #e3e3e3;
+    color: #2F4472;
 }
 
 .navbar-default .navbar-nav>li>a:focus {
-    color: #e3e3e3;
+    color: #2F4472;
 }
 
 .navbar-default .navbar-brand {
